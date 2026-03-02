@@ -1,0 +1,10 @@
+[project]
+name = "clipscribe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flet-video>=0.81.0",
+    "flet[all]>=0.81.0",
+]
