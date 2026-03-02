@@ -1,4 +1,4 @@
-# Media Extractor GUI 🎞️
+# ClipScribe 🎞️
 
 動画の切り抜き・文字起こし支援ツールです。
 言語はPython、GUIはFletを使用し、`FFmpeg` `FFprobe`の外部呼出しによって動画を操作します。
